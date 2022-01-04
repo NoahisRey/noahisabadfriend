@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @noahisabadfriend
 - 👀 I’m interested in neuroscience and data science
-- 🌱 I’m currently learning SQl and brushing up on Python
+- 🌱 I’m currently learning SQl and trying to get better at using Python for data analytics/science
 - 💞️ I’m looking to collaborate on projects regarding data
 - 📫 You can message me here I think
 
